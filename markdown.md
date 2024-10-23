@@ -544,7 +544,7 @@ La salida renderizada se ve así:
 
 Para agregar un enlace a una imagen, encierre el Markdown de la imagen entre corchetes y luego agregue el enlace entre paréntesis.
 
-\[\!\[An old rock in the desert\](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")\]([https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif](https://github.com/alexisbolivar5/practica-0/blob/main/shiprock.avif))
+\[\!\[An old rock in the desert\](shiprock.avif "Shiprock, New Mexico by Beau Rogers")\](https://github.com/alexisbolivar5/practica-0/blob/main/shiprock.avif)
 
 La salida renderizada se ve así:
 
