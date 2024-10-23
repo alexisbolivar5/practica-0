@@ -328,7 +328,7 @@ La salida renderizada se ve así:
 
 1. Abra el archivo que contiene la mascota de Linux.  
 2. Maravíllate con su belleza.  
-   ![Tux, la mascota de Linux][image1]  
+   ![Tux][image1]  
 3. Cerrar el archivo.
 
 #### Liza
@@ -532,11 +532,11 @@ Los paréntesis en medio de una URL también pueden ser problemáticos. Para log
 
 Para agregar una imagen, agregue un signo de exclamación ( \!), seguido de un texto alternativo entre corchetes y la ruta o URL del recurso de imagen entre paréntesis. Opcionalmente, puede agregar un título entre comillas después de la ruta o URL.
 
-\!\[The San Juan Mountains are beautiful\!\](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+\!\[[The San Juan Mountains are beautiful\!\](/assets/images/san-juan-mountains.jpg](https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif) "San Juan Mountains")
 
 La salida renderizada se ve así:
 
-![¡Las montañas de San Juan son hermosas\!][image2]
+![san-juan-mountains\!][image2]
 
  Nota: Para cambiar el tamaño de una imagen, consulte la sección sobre [tamaño de imagen](https://www.markdownguide.org/hacks/#image-size) . Para agregar un título, consulte la sección sobre [títulos de imágenes](https://www.markdownguide.org/hacks/#image-captions) .
 
@@ -544,7 +544,7 @@ La salida renderizada se ve así:
 
 Para agregar un enlace a una imagen, encierre el Markdown de la imagen entre corchetes y luego agregue el enlace entre paréntesis.
 
-\[\!\[An old rock in the desert\](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")\](https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif)
+\[\!\[An old rock in the desert\](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")\]([https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif](https://github.com/alexisbolivar5/practica-0/blob/main/shiprock.avif))
 
 La salida renderizada se ve así:
 
