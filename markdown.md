@@ -319,7 +319,7 @@ Encuentre el siguiente bloque de código en la línea 21:
 
 1\. Open the file containing the Linux mascot.  
 2\. Marvel at its beauty.
-!\[mono\](./mono.jpg)
+![mono](mono.jpg)
 https://github.com/alexisbolivar5/practica-0
 3\. Close the file.
 
