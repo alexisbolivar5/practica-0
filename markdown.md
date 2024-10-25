@@ -532,7 +532,7 @@ Los paréntesis en medio de una URL también pueden ser problemáticos. Para log
 Para agregar una imagen, agregue un signo de exclamación ( \!), seguido de un texto alternativo entre corchetes y la ruta o URL del recurso de imagen entre paréntesis. Opcionalmente, puede agregar un título entre comillas después de la ruta o URL.
 
 
-![peta](peta.jpeg](https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif) "peta")
+![peta](peta.jpeg)](https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif) "peta")
 
 La salida renderizada se ve así:
 
