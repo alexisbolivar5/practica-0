@@ -319,7 +319,7 @@ Encuentre el siguiente bloque de código en la línea 21:
 
 1\. Open the file containing the Linux mascot.  
 2\. Marvel at its beauty.
-!\[Tux, the Linux mascot\](./tux.avif)
+!\[mono\](./mono.jpg)
 https://github.com/alexisbolivar5/practica-0
 3\. Close the file.
 
@@ -327,7 +327,7 @@ La salida renderizada se ve así:
 
 1. Abra el archivo que contiene la mascota de Linux.  
 2. Maravíllate con su belleza.
- ![Tux][image1]  
+ ![mono][image1]  
 4. Cerrar el archivo.
 
 #### Liza
@@ -532,11 +532,11 @@ Los paréntesis en medio de una URL también pueden ser problemáticos. Para log
 Para agregar una imagen, agregue un signo de exclamación ( \!), seguido de un texto alternativo entre corchetes y la ruta o URL del recurso de imagen entre paréntesis. Opcionalmente, puede agregar un título entre comillas después de la ruta o URL.
 
 
-!\[[The San Juan Mountains are beautiful\!\](./san-juan-mountains.av](https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif) "San Juan Mountains")
+!\[[peta\!\](./peta.jpeg](https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif) "peta")
 
 La salida renderizada se ve así:
 
-![san-juan-mountains\!][image2]
+![peta\!][image2]
 
  Nota: Para cambiar el tamaño de una imagen, consulte la sección sobre [tamaño de imagen](https://www.markdownguide.org/hacks/#image-size) . Para agregar un título, consulte la sección sobre [títulos de imágenes](https://www.markdownguide.org/hacks/#image-captions) .
 
@@ -544,11 +544,11 @@ La salida renderizada se ve así:
 
 Para agregar un enlace a una imagen, encierre el Markdown de la imagen entre corchetes y luego agregue el enlace entre paréntesis.
 
-!\[An old rock in the desert\](./shiprock.avif "Shiprock, New Mexico by Beau Rogers")\](https://github.com/alexisbolivar5/practica-0/blob/main/shiprock.avif)
+!\[azucar\](./azucar.jpg )\](https://github.com/alexisbolivar5/practica-0/blob/main/azucar.jpg)
 
 La salida renderizada se ve así:
 
-![Una vieja roca en el desierto][image3]
+![azucar][image3]
 
 ## Personajes que escapan
 
