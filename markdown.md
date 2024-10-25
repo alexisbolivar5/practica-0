@@ -531,7 +531,8 @@ Los paréntesis en medio de una URL también pueden ser problemáticos. Para log
 
 Para agregar una imagen, agregue un signo de exclamación ( \!), seguido de un texto alternativo entre corchetes y la ruta o URL del recurso de imagen entre paréntesis. Opcionalmente, puede agregar un título entre comillas después de la ruta o URL.
 
-\!\[[The San Juan Mountains are beautiful\!\](/assets/images/san-juan-mountains.jpg](https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif) "San Juan Mountains")
+
+!\[[The San Juan Mountains are beautiful\!\](./san-juan-mountains.av](https://github.com/alexisbolivar5/practica-0/blob/main/san-juan-mountains.avif) "San Juan Mountains")
 
 La salida renderizada se ve así:
 
@@ -543,7 +544,7 @@ La salida renderizada se ve así:
 
 Para agregar un enlace a una imagen, encierre el Markdown de la imagen entre corchetes y luego agregue el enlace entre paréntesis.
 
-\[\!\[An old rock in the desert\](shiprock.avif "Shiprock, New Mexico by Beau Rogers")\](https://github.com/alexisbolivar5/practica-0/blob/main/shiprock.avif)
+!\[An old rock in the desert\](./shiprock.avif "Shiprock, New Mexico by Beau Rogers")\](https://github.com/alexisbolivar5/practica-0/blob/main/shiprock.avif)
 
 La salida renderizada se ve así:
 
