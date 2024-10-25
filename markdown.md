@@ -319,17 +319,16 @@ Encuentre el siguiente bloque de código en la línea 21:
 
 1\. Open the file containing the Linux mascot.  
 2\. Marvel at its beauty.
-
-    !\[Tux, the Linux mascot\](./tux.avif)
+!\[Tux, the Linux mascot\](./tux.avif)
 https://github.com/alexisbolivar5/practica-0
 3\. Close the file.
 
 La salida renderizada se ve así:
 
 1. Abra el archivo que contiene la mascota de Linux.  
-2. Maravíllate con su belleza.  
-   ![Tux][image1]  
-3. Cerrar el archivo.
+2. Maravíllate con su belleza.
+ ![Tux][image1]  
+4. Cerrar el archivo.
 
 #### Liza
 
